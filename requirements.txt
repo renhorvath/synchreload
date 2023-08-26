@@ -1,0 +1,6 @@
+streamlit
+spotipy
+SpotifyClientCredentials
+pandas
+numpy 
+joblib
